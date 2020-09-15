@@ -1,2 +1,2 @@
-let Text = "uwielbiam javascript"
+let text = "Uwielbiam JavaScript"
 console.log(Text);
